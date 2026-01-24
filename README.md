@@ -53,7 +53,6 @@ When I am not architecting backend systems or exploring the AI ecosystem, I enjo
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Thorcha-Errox&theme=aura&hide_border=false&include_all_commits=false&count_private=false"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Thorcha-Errox&theme=aura&hide_border=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorcha-Errox&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
 
