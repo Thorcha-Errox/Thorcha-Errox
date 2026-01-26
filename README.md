@@ -99,3 +99,8 @@ When I am not architecting backend systems or exploring the AI ecosystem, I enjo
 
 ##  **Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/archa-vivek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:archaviveksgp@gmail.com)
+
+<div align="centre">
+<p> <img src="https://komarev.com/ghpvc/?username=Thorcha-Errox&label=Profile%20views&color=0e75b6&style=flat" alt="Thorcha-Errox" /> </p>
+</div>
+
