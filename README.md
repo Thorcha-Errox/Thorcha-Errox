@@ -51,11 +51,11 @@ When I am not architecting backend systems or exploring the AI ecosystem, I enjo
 
 ## **GitHub Stats:**
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Thorcha-Errox&theme=aura&hide_border=false&include_all_commits=false&count_private=false"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Thorcha-Errox&theme=aura&hide_border=false&include_all_commits=false&count_private=false"/> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thorcha-Errox&theme=2077"/>
+  <br>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Thorcha-Errox&theme=aura&hide_border=false"/>
 </p>
-
-
 
 
 ## **Coding Profiles**
@@ -66,6 +66,15 @@ When I am not architecting backend systems or exploring the AI ecosystem, I enjo
       alt="LeetCode Stats"
       height="200"
     />
+     <!-- Code360 -->
+  <a href="https://www.naukri.com/code360/profile/Errox" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Code360-Coding%20Ninjas-orange?style=for-the-badge"
+      height="200"
+    />
+  </a>
+</a>
+
   </a>
 
 
